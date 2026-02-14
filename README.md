@@ -1,21 +1,29 @@
-# 💼 Portafolio Personal
+# Portafolio Personal
 
 Portafolio web personal desarrollado para presentar mis habilidades y proyectos como desarrolladora frontend.
 
-## 🌐 Demo
+---
+
+## ▸ Demo
 👉 https://marcelab21.github.io/portfolio/
 
-## 🛠️ Tecnologías utilizadas
+---
+
+## ▸ Tecnologías utilizadas
 - HTML5
 - CSS3 (Flexbox y Grid)
 - JavaScript (ES6)
 
-## ✨ Características
+---
+
+## ▸ Características
 - Diseño responsive
-- HTML semántico
+- Uso de HTML semántico
 - Interactividad con JavaScript
-- Navegación tipo hamburguesa
+- Navegación tipo menú hamburguesa
 - Código organizado y mantenible
 
-## 🎯 Objetivo del proyecto
-Servir como portafolio personal para demostrar buenas prácticas, estructura de código y fundamentos de desarrollo web.
+---
+
+## ▸ Objetivo del proyecto
+Servir como portafolio personal para demostrar buenas prácticas, estructura de código y fundamentos del desarrollo web.
