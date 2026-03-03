@@ -37,7 +37,7 @@ Este repositorio contiene el código fuente de mi portafolio web personal, desar
 
 ---
 
-## Demo en video
+## Demo en  vivo
 
 [Ver demostración del sistema]( https://marcelab21.github.io/portfolio/)
 
