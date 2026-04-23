@@ -37,9 +37,9 @@ Este repositorio contiene el código fuente de mi portafolio web personal, desar
 
 ---
 
-## Demo en  vivo
+## Proyecto en  vivo
 
-[Ver demostración del sistema]( https://marcelab21.github.io/portfolio/)
+[Ver sitio web]( https://marcelab21.github.io/portfolio/)
 
 ---
 Este portafolio fue desarrollado con HTML, CSS y JavaScript puro para demostrar dominio sólido de los fundamentos del desarrollo frontend.
